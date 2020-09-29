@@ -2,6 +2,15 @@
 
 A simple Minecraft Paper plugin to run Spleef matches on your server.
 
+### Caveats
+
+I wrote this in my spare time and do not guarantee any support if it breaks something on your server,
+blows up your VPS, or eats your pet spiders. You should always take regular backups. [Essentials](https://essentialsx.net) makes this easy!
+
+### Installation
+
+Grab the latest release from the [tags](https://github.com/terabyte128/paper-spleef/tags). Copy to your `plugins` folder. Reload (or restart) your server. 
+
 ### Permissions
 - `spleeftime.play`: allows players to use the `/match`, `/start`, `/accept`, `/decline`, and `/cancel` commands 
 (i.e., all the commands necessary to create and play matches.)
