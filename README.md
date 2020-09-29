@@ -60,4 +60,10 @@ At the end of a match, all players will be given back their items, health, and l
   
 - **Q**: why are chests necessary if players never access them? Can't you just store this info in the config?
 
-    **A**: No more questions. 
+    **A**: No more questions.
+    
+    
+### Contributing
+
+You should be able to compile the code with Maven and it should just work. If you added something cool
+feel free to make a pull request. 
